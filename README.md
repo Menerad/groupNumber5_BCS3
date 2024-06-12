@@ -89,14 +89,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Author**: Your Name
+- **Author**: GROUP 3
 - **Email**: laumenkahigwa@gmail.com
 - **GitHub**: [Menerad](https://github.com/GROUP assignments)
 - GROUP ASSGNMENT
 - BACHELOR OF COMPUTER SCIENCE
 
 
-ELVIN P ISHUMI(BCS/0087/2021)
+ELVIN P ISHUMI(BCS/0087/2021)<BR>
 JACKSON KIFUJA(BCS/0043/2021)
 HAPPINES S PETER(BCS/0094/2021)
 COLLINS M KWAYU(BSS/0090/2021)
