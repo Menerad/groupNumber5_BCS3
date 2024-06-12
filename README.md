@@ -91,9 +91,24 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Author**: Your Name
 - **Email**: laumenkahigwa@gmail.com
-- **GitHub**: [Menerad](https://github.com/yourusername)
+- **GitHub**: [Menerad](https://github.com/GROUP assignments)
+- GROUP ASSGNMENT
+- BACHELOR OF COMPUTER SCIENCE
 
----
+
+ELVIN P ISHUMI(BCS/0087/2021)
+JACKSON KIFUJA(BCS/0043/2021)
+HAPPINES S PETER(BCS/0094/2021)
+COLLINS M KWAYU(BSS/0090/2021)
+HUDSON G SUBETH(BCS/0064/2021)
+JUMA W BAVUNI(BCS/0097/2021)
+LAUMEN KAHIGWA(BCS/0018/2021)
+FABIAN DAUDI(BCS/0088/2021)
+ALEX SANGA(BCS/0092/2021)
+RAJAB MTANGAKI(BCS/0095/2021)
+ABDNEGO MWAKIBUTH(BCS/0123/2021)
+
+
 
 Feel free to modify any section to better suit your project's details or requirements. This template provides a structured way to present your project and make it easy for others to understand and contribute.
 
