@@ -1,9 +1,5 @@
 # constarts_example
 
-Creating a README file is a great way to document your project and provide instructions to users or collaborators. Here’s a template you can use and modify according to your project's specifics:
-
----
-
 # Registration App
 
 ## Description
@@ -49,7 +45,7 @@ This is a Flutter-based Registration App that allows users to enter personal inf
 
 ## Configuration
 
-- **Assets**: Add your images to the `assets` folder and update `pubspec.yaml`:
+- **Assets**: images to the `assets` folder and update `pubspec.yaml`:
   ```yaml
   flutter:
     assets:
@@ -74,7 +70,6 @@ dependencies:
 ## Contributing
 
 1. **Fork the repository**.
-2. **Create a new branch**: `git checkout -b feature/your-feature-name`.
 3. **Make your changes** and commit them:
    ```bash
    git add .
@@ -95,20 +90,26 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - GROUP ASSGNMENT
 - BACHELOR OF COMPUTER SCIENCE
 
-
-ELVIN P ISHUMI(BCS/0087/2021)<BR>
-JACKSON KIFUJA(BCS/0043/2021)
-HAPPINES S PETER(BCS/0094/2021)
-COLLINS M KWAYU(BSS/0090/2021)
-HUDSON G SUBETH(BCS/0064/2021)
-JUMA W BAVUNI(BCS/0097/2021)
-LAUMEN KAHIGWA(BCS/0018/2021)
-FABIAN DAUDI(BCS/0088/2021)
-ALEX SANGA(BCS/0092/2021)
-RAJAB MTANGAKI(BCS/0095/2021)
-ABDNEGO MWAKIBUTH(BCS/0123/2021)
-
-
+<h1>GROUP ASSIGNMENT</h1>
+<H2>GROUP MEMBERS PARTICIPATED</H2>
+<ul>
+1. ELVIN P ISHUMI &#160 &#160 &#160(BCS/0087/2021)<BR>
+2. JACKSON KIFUJA &#160 &#160 &#160(BCS/0043/2021)<BR>
+3. HAPPINES S PETER &#160 &#160 &#160(BCS/0094/2021)<BR>
+4. COLLINS M KWAYU &#160 &#160 &#160(BSS/0090/2021)<BR>
+5. HUDSON G SUBETH &#160 &#160 &#160(BCS/0064/2021)<BR>
+6. JUMA W BAVUNI &#160 &#160 &#160 &#160(BCS/0097/2021)<BR>
+7. LAUMEN KAHIGWA &#160 &#160 &#160(BCS/0018/2021)<BR>
+8. FABIAN DAUDI &#160 &#160 &#160(BCS/0088/2021)<BR>
+9. ALEX SANGA &#160 &#160 &#160 &#160(BCS/0092/2021)<BR>
+10. RAJAB MTANGAKI &#160 &#160 &#160(BCS/0095/2021)<BR>
+11. ABDNEGO MWAKIBUTH &#160 &#160 &#160(BCS/0123/2021)<BR>
+</ul>
+<ul>
+   <li>please contact group leader</li>
+   <li style="color:blue;">phone 0757180941</li>
+   <li style="color:blue;">email:laumenkahigwa@gmail.com </li>
+</ul>
 
 Feel free to modify any section to better suit your project's details or requirements. This template provides a structured way to present your project and make it easy for others to understand and contribute.
 
