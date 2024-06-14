@@ -150,59 +150,59 @@ class WideLayout extends StatelessWidget {
   Widget build(BuildContext context) {
     return Row(
       children: [
-        // Expanded(
-        //   child: Container(
-        //     color: Color.fromARGB(255, 30, 159, 233), // Set the background color to dodgerblue
-        //     child: ListView(
-        //       padding: EdgeInsets.zero,
-        //       children: [
-        //         DrawerHeader(
-        //           decoration: BoxDecoration(
-        //             color: Color.fromARGB(255, 110, 115, 184),
-        //           ),
-        //           child: Text(
-        //             'Menu',
-        //             style: TextStyle(
-        //               color: Colors.white,
-        //               fontSize: 24,
-        //             ),
-        //           ),
-        //         ),
-        //         ListTile(
-        //           leading: Icon(Icons.home, color: Colors.white),
-        //           title: Text('Home', style: TextStyle(color: Colors.white)),
-        //           onTap: () {
-        //             // Handle Home tap
-        //           },
-        //         ),
-        //         ListTile(
-        //           leading: Icon(Icons.contact_mail, color: Colors.white),
-        //           title:
-        //               Text('Contact Us', style: TextStyle(color: Colors.white)),
-        //           onTap: () {
-        //             // Handle Contact Us tap
-        //           },
-        //         ),
-        //         ListTile(
-        //           leading: Icon(Icons.info, color: Colors.white),
-        //           title:
-        //               Text('About Us', style: TextStyle(color: Colors.white)),
-        //           onTap: () {
-        //             // Handle About Us tap
-        //           },
-        //         ),
-        //         ListTile(
-        //           leading: Icon(Icons.location_on, color: Colors.white),
-        //           title:
-        //               Text('Location', style: TextStyle(color: Colors.white)),
-        //           onTap: () {
-        //             // Handle Location tap
-        //           },
-        //         ),
-        //       ],
-        //     ),
-        //   ),
-        // ),
+        Expanded(
+          child: Container(
+            color: Color.fromARGB(255, 30, 159, 233), // Set the background color to dodgerblue
+            child: ListView(
+              padding: EdgeInsets.zero,
+              children: [
+                DrawerHeader(
+                  decoration: BoxDecoration(
+                    color: Color.fromARGB(255, 110, 115, 184),
+                  ),
+                  child: Text(
+                    'Menu',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 24,
+                    ),
+                  ),
+                ),
+                ListTile(
+                  leading: Icon(Icons.home, color: Colors.white),
+                  title: Text('Home', style: TextStyle(color: Colors.white)),
+                  onTap: () {
+                    // Handle Home tap
+                  },
+                ),
+                ListTile(
+                  leading: Icon(Icons.contact_mail, color: Colors.white),
+                  title:
+                      Text('Contact Us', style: TextStyle(color: Colors.white)),
+                  onTap: () {
+                    // Handle Contact Us tap
+                  },
+                ),
+                ListTile(
+                  leading: Icon(Icons.info, color: Colors.white),
+                  title:
+                      Text('About Us', style: TextStyle(color: Colors.white)),
+                  onTap: () {
+                    // Handle About Us tap
+                  },
+                ),
+                ListTile(
+                  leading: Icon(Icons.location_on, color: Colors.white),
+                  title:
+                      Text('Location', style: TextStyle(color: Colors.white)),
+                  onTap: () {
+                    // Handle Location tap
+                  },
+                ),
+              ],
+            ),
+          ),
+        ),
         Expanded(
           flex: 3,
           child: Padding(
