@@ -102,8 +102,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 6. JUMA W BAVUNI          (BCS/0097/2021)<BR>
 7. LAUMEN KAHIGWA          (BCS/0018/2021)<BR>
 8. FABIAN DAUDI             (BCS/0088/2021)<BR>
-9. ALEX SANGA             (BCS/0092/2021)<BR>
-10. RAJAB MTANGAKI          (BCS/0095/2021)<BR>
+9. ALEX SANGA             (BCS/0095/2021)<BR>
+10. RAJAB MTANGAKI          (BCS/0092/2021)<BR>
 11. ABDNEGO MWAKIBUTH          (BCS/0123/2021)<BR>
 12. JOHIN S. CHACHA          (BCS/0087/2021)<BR>
 13. JACOB C.SIWELWA          (BCS/0083/2021)<BR>
